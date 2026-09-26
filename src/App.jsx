@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./app.css";
+import "./App.css";
 
 /* =====================================================================
    CREATIVE KIDS NURSERY - website mockup (v2: richer crayon theme)
